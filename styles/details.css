@@ -1,0 +1,26 @@
+
+
+.choices {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.options {
+    flex-basis: 14%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgb(248, 246, 237);
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
+.result {
+    flex-basis: 14%;
+    margin: 0 2rem;                                    
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    
+}
